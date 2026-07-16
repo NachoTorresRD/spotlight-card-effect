@@ -10,6 +10,7 @@ A digital-product card with a spotlight and illuminated border that follow point
 - CSS-variable driven border and light.
 - Accessible switch to enable or disable the effect.
 - Readable content without interaction and mobile adaptation.
+- Complete one-block composition for screen capture.
 
 ## Live demo
 
@@ -21,7 +22,7 @@ Clone the repository, enter `spotlight-card-effect`, and open `index.html`.
 
 ## Project structure
 
-Semantic HTML, standalone CSS, Vanilla JavaScript, SVG assets, and static Netlify configuration.
+Semantic HTML, visual CSS, `capture.css` for the complete shot, Vanilla JavaScript, SVG assets, and static Netlify configuration.
 
 ## Customization
 

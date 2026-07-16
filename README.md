@@ -10,6 +10,7 @@ Tarjeta de producto digital con spotlight y borde iluminado que siguen el punter
 - Borde y luz controlados por variables CSS.
 - Interruptor accesible para activar o desactivar el efecto.
 - Contenido legible sin interacción y adaptación móvil.
+- Composición completa en un único bloque para grabación.
 
 ## Demo en vivo
 
@@ -21,7 +22,7 @@ Clona el repositorio, entra en `spotlight-card-effect` y abre `index.html`.
 
 ## Estructura del proyecto
 
-HTML semántico, CSS independiente, JavaScript Vanilla, recursos SVG y configuración estática de Netlify.
+HTML semántico, CSS visual, `capture.css` para la toma completa, JavaScript Vanilla, recursos SVG y configuración estática de Netlify.
 
 ## Cómo personalizarlo
 
