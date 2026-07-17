@@ -14,7 +14,7 @@ A digital-product card with a spotlight and illuminated border that follow point
 
 ## Live demo
 
-[cardfx.ntdesweb.dev](https://cardfx.ntdesweb.dev/)
+[spotlight.ntdesweb.dev](https://spotlight.ntdesweb.dev/)
 
 ## Installation
 

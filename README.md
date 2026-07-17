@@ -14,7 +14,7 @@ Tarjeta de producto digital con spotlight y borde iluminado que siguen el punter
 
 ## Demo en vivo
 
-[cardfx.ntdesweb.dev](https://cardfx.ntdesweb.dev/)
+[spotlight.ntdesweb.dev](https://spotlight.ntdesweb.dev/)
 
 ## Instalación
 
