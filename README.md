@@ -16,6 +16,12 @@ Tarjeta de producto digital con spotlight y borde iluminado que siguen el punter
 
 [spotlight.ntdesweb.dev](https://spotlight.ntdesweb.dev/)
 
+## Más demos de efectos
+
+- [3D Product Card](https://card3d.ntdesweb.dev/)
+- [Before/After Image Slider](https://fxpreview.ntdesweb.dev/)
+- [Hacker Text](https://hacker.ntdesweb.dev/)
+
 ## Instalación
 
 Clona el repositorio, entra en `spotlight-card-effect` y abre `index.html`.

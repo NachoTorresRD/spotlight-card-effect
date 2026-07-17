@@ -16,6 +16,12 @@ A digital-product card with a spotlight and illuminated border that follow point
 
 [spotlight.ntdesweb.dev](https://spotlight.ntdesweb.dev/)
 
+## More effect demos
+
+- [3D Product Card](https://card3d.ntdesweb.dev/)
+- [Before/After Image Slider](https://fxpreview.ntdesweb.dev/)
+- [Hacker Text](https://hacker.ntdesweb.dev/)
+
 ## Installation
 
 Clone the repository, enter `spotlight-card-effect`, and open `index.html`.
