@@ -14,7 +14,7 @@ A digital-product card with a spotlight and illuminated border that follow point
 
 ## Live demo
 
-[spotlight-card-effect.netlify.app](https://spotlight-card-effect.netlify.app)
+[cardfx.ntdesweb.dev](https://cardfx.ntdesweb.dev/)
 
 ## Installation
 

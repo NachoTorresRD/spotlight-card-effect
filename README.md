@@ -14,7 +14,7 @@ Tarjeta de producto digital con spotlight y borde iluminado que siguen el punter
 
 ## Demo en vivo
 
-[spotlight-card-effect.netlify.app](https://spotlight-card-effect.netlify.app)
+[cardfx.ntdesweb.dev](https://cardfx.ntdesweb.dev/)
 
 ## Instalación
 
